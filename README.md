@@ -4,7 +4,8 @@ The point of this project was to create a ToDo App learning React using differen
 I also used Vite.js to make it work live.  
 
 
-### Built With
+### Built With  
+
 * [![React][React.js]][React-url]
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
