@@ -2,7 +2,7 @@
 
 The point of this project was to create a ToDo App learning React using different instructions!  
 I used Vite.js to make it work live.  
-I also used CSS to make it more attractive.
+I also used CSS to make it more attractive!
 
 
 ### Built With  
