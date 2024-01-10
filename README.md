@@ -12,7 +12,7 @@ I also used Vite.js to make it work live.
 [React-url]: https://reactjs.org/
 ![image]({https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E})
 <img src="{https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E}" />
-[Vite-url]: https://vitejs.dev/
+
 
 
 
