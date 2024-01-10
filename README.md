@@ -1,7 +1,7 @@
 ## About The Project
 
-**This is a little project created to learn how to use React.**
-The point of this project was to create a todo app learning React.
+The point of this project was to create a ToDo App learning React using different instructions.  
+
 
 ### Built With
 * [![React][React.js]][React-url]
