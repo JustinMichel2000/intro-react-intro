@@ -10,7 +10,8 @@ I also used Vite.js to make it work live.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-<img src="{[BadgeURLHere](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)}" />
+
+<img src="{https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E}" />
 [Vite-url]: https://vitejs.dev/
 
 
