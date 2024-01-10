@@ -1,6 +1,6 @@
 ## About The Project
 
-_This is a little project created to learn how to use React._  
+_ This is a little project created to learn how to use React. _  
 The point of this project was to create a todo app learning React.
 
 ### Built With
